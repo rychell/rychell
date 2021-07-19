@@ -7,5 +7,5 @@ Nos últimos 5 anos tenho trabalhado com NodeJS e para desenvolvimento back-end 
 Aqui no meu GitHub você vai encontrar meus projetos pessoais, alguns templates que uso para iniciar alguma aplicação e também repositórios de cursos que estou fazendo. 
 
 Caso queira trocar uma ideia, deixo alguns dos meu contatos
-E-mail: rychell@gmail.com
-Linkedin: https://www.linkedin.com/in/rychell-moreira/
+- E-mail: rychell@gmail.com
+- Linkedin: https://www.linkedin.com/in/rychell-moreira/
